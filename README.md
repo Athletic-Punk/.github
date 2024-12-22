@@ -5,7 +5,7 @@ Para manter um trabalho organizado usando o [GitHub](https://github.com/), iremo
 ## Commits
 - **Commits frequentes**: Faça commits frequentes com mudanças pequenas e específicas.
 - **Mensagens de commit descritivas**: Escreva mensagens de commit claras e descritivas que expliquem o que foi alterado e por quê.
-    - Exemplo: `STYLE: Continuação da responsividade` ou `FEAT: Implementando página de contato`
+    - Exemplo: `STYLE: Continuação da responsividade #2` ou `FEAT: Implementando página de contato #5`
 
 ***OS COMMITS DEVEM SER ESCRITOS EM INGLÊS NO FORMATO ACIMA***
 
@@ -13,7 +13,7 @@ Para manter um trabalho organizado usando o [GitHub](https://github.com/), iremo
 
 ### Padrões de commit
 - Padrões de commit ajudam a manter um histórico de commits claro e consistente, facilitando a compreensão das mudanças no projeto. Usaremos os padrões da **Conventional Commits**.
-- Como dito anteriormente, o commit deve ter a seguinte estrutura: `<PADRÃO_DE_COMMIT>: <descrição>`
+- Como dito anteriormente, o commit deve ter a seguinte estrutura: `<PADRÃO_DE_COMMIT>: <descrição> <# da issue>`
 
 ### Tipos de commit
 - **FEAT**: Utilizado para introdução de uma nova funcionalidade.
