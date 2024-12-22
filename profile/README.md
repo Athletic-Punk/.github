@@ -23,31 +23,31 @@ O Athletic Punk está dividido nas seguintes páginas:
 - Apresentação dos esportes.
 
     #### Basquetebol
-        - Introdução (história, regras básicas, pontuação, faltas);
-        - Fundamentos;
-        - Posições e Funções dos jogadores;
-        - Benefícios Físicos e Mentais;
-        - Como começar e com que frequência.
+    - Introdução (história, regras básicas, pontuação, faltas);
+    - Fundamentos;
+    - Posições e Funções dos jogadores;
+    - Benefícios Físicos e Mentais;
+    - Como começar e com que frequência.
 
     #### Futebol
-        - Introdução (história, regras básicas, pontuação, faltas);
-        - Fundamentos;
-        - Posições e Funções dos jogadores;
-        - Benefícios Físicos e Mentais;
-        - Como começar e com que frequência.
+    - Introdução (história, regras básicas, pontuação, faltas);
+    - Fundamentos;
+    - Posições e Funções dos jogadores;
+    - Benefícios Físicos e Mentais;
+    - Como começar e com que frequência.
 
     #### Ginástica
-        - Introdução (história, regras básicas, pontuação, faltas);
-        - Fundamentos e Aparelhos;
-        - Benefícios Físicos e Mentais;
-        - Como começar e com que frequência.
+    - Introdução (história, regras básicas, pontuação, faltas);
+    - Fundamentos e Aparelhos;
+    - Benefícios Físicos e Mentais;
+    - Como começar e com que frequência.
 
     #### Voleibol
-        - Introdução (história, regras básicas, pontuação, faltas);
-        - Fundamentos;
-        - Posições e Funções dos jogadores;
-        - Benefícios Físicos e Mentais;
-        - Como começar e com que frequência.
+    - Introdução (história, regras básicas, pontuação, faltas);
+    - Fundamentos;
+    - Posições e Funções dos jogadores;
+    - Benefícios Físicos e Mentais;
+    - Como começar e com que frequência.
 3. **Contato**
 - Apresentação dos desenvolvedores;
 - Link para as redes sociais.
