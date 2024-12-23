@@ -42,7 +42,7 @@ Para manter um trabalho organizado usando o [GitHub](https://github.com/), iremo
 
 ## Issues
 - **Gerenciamento de tarefas**: Usaremos as issues para registrar bugs, solicitações de funcionalidades e tarefas.
-- **Labels e assignees**: Utlizaremos as labels (categorias) para categorizar as issues e atribui-lás para aassignees (responsáveis) para garantir o adequado gerenciamento das tasks.
+- **Labels e assignees**: Utlizaremos as labels (categorias) para categorizar as issues e atribui-lás para assignees (responsáveis) para garantir o adequado gerenciamento das tasks.
 
 ## Branches
 - **Uso de branches**: Criação de branches para diferentes funcionalidades, correções de bugs ou experimentos. 
@@ -71,7 +71,7 @@ Título: `FIX: refatoração das rotas`
 Descrição: ` Branch criada para a resolver o bug nas rotas...`
 
 ### Informações Adicionais
-- **Reviewers**: pessoas responsáveis pela revisão das alterações realizas **(Adiconar Nicole como reviewer)**
+- **Reviewers**: pessoas responsáveis pela revisão das alterações realizadas **(Adiconar Nicole como reviewer)**
 - **Assignees**: pessoas responsáveis pelas alterações realizadas
 - **Label**: categoria relacionada às mudanças realizadas:
     - FRONTEND
@@ -94,7 +94,7 @@ Descrição: ` Branch criada para a resolver o bug nas rotas...`
     ***OS COMMITS DEVEM SER ESCRITOS EM INGLÊS NO FORMATO ABAIXO***
     ```
     git add .
-    git commit -m "PADRÃO_DE_COMMIT": mensagem de commit
+    git commit -m "PADRÃO_DE_COMMIT": mensagem de commit <# da issue>
     ```
 
 3. **Resolva conflitos de merge**
@@ -124,7 +124,7 @@ Descrição: ` Branch criada para a resolver o bug nas rotas...`
     - Esteja preparado para fazer mudanças adicionais com base no feedback dos revisores. Faça os ajustes necessários e atualize o PR.
     ```
     git add .
-    git commit -m ""PADRÃO_DE_COMMIT": mensagem de commit"
+    git commit -m "PADRÃO_DE_COMMIT": mensagem de commit <# da issue>
     git push origin minha-branch
     ```
 
